@@ -15,8 +15,14 @@ The system follows a linear automation pipeline:
 4.  **Feedback:** The bot sends a confirmation message or a daily summary back to the user via Telegram.
 
 ## Screenshot
-[](/digital-gym-buddy/save-and-query.png)
+Workflow to save workout into google sheet.
+![Save and Query Screenshot](save-and-query.png)
 
+Workflow to generate daily summary.
+![Daily Summary Workflow](daily-summary.png)
+
+## Demo
+[![Digital Gym Buddy Demo](https://img.youtube.com/vi/fwDRmOGqMQY/0.jpg)](https://www.youtube.com/shorts/fwDRmOGqMQY)
 
 ## 🛠 Tech Stack
 
